@@ -105,3 +105,17 @@ Replace `your-droplet-ip` with the actual IP address of your droplet. If everyth
 
 That’s it! You’ve set up a secure DigitalOcean droplet running Arch Linux, added an SSH key, and automated the initial setup using cloud-init. Now you can use your server for whatever projects or tasks you need.
 
+--- 
+## **References**
+
+DigitalOcean. (n.d.). *How to use cloud-config for your initial server setup*. DigitalOcean. Retrieved September 30, 2024, from https://www.digitalocean.com/community/tutorials/how-to-use-cloud-config-for-your-initial-server-setup
+
+DigitalOcean. (n.d.). *How to add SSH keys to Droplets*. DigitalOcean. Retrieved September 30, 2024, from https://docs.digitalocean.com/products/droplets/how-to/add-ssh-keys/
+
+OpenSSH. (n.d.). *OpenSSH key management*. Retrieved September 30, 2024, from https://www.ssh.com/academy/ssh/keygen
+
+Arch Linux. (n.d.). *Arch Linux installation guide*. Arch Linux. Retrieved September 30, 2024, from https://wiki.archlinux.org/title/Installation_guide
+
+cloud-init. (n.d.). *Cloud-init documentation*. cloud-init. Retrieved September 30, 2024, from https://cloudinit.readthedocs.io/en/latest/
+
+
